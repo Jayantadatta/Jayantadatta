@@ -77,7 +77,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="center">
-      <img src="https://i.imgur.com/lC9bNfB.jpeg" width="100%" style="border-radius: 10px;" alt="Neon Physics Equations">
+      <img src="https://elements-resized.envatousercontent.com/elements-video-cover-images/files/0f3d6826-dd90-4e33-886c-7fd61036fb8e/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=ae60c3ecf8d1e7eba617af06b10df82358a96e4a925d5e0ba39936f2cb0b2c68" width="100%" style="border-radius: 10px;" alt="Neon Physics Equations">
     </td>
   </tr>
 </table>
