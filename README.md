@@ -34,14 +34,19 @@
   />
 </p>
 
-<p align="center" style="margin:6px 0 10px; font-size:14px; line-height:1.1;">
-  <a href="https://www.linkedin.com/in/jayanta-datta-477a251aa" style="text-decoration:underline;">LinkedIn</a>
-  •
-  <a href="mailto:jayantadatta2005@gmail.com" style="text-decoration:underline;">Email</a>
-  •
-  <a href="https://github.com/Jayantadatta" style="text-decoration:underline;">GitHub</a>
+<p align="center" style="margin: 10px 0;">
+  <a href="https://www.linkedin.com/in/jayanta-datta-477a251aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jayantadatta2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jayantadatta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
-
 ### About Me
 
 - 🔭 **Math & CS Intersection:** Exploring the synergy between **Applied Mathematics** (Linear Algebra, Calculus) and **Machine Learning**.
