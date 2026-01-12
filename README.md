@@ -51,7 +51,19 @@
 <h3 align="left">About Me</h3>
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td>
+      <div align="center">
+        <br>
+        <span style="font-size: 20px; font-weight: bold; color: #e5c07b; font-family: 'Courier New', monospace;">
+          “All power is within you; you can do anything and everything.”
+        </span>
+        <br><br>
+        <i>— Swami Vivekananda</i>
+        <br><br>
+        <img src="https://raw.githubusercontent.com/prachyabiswas/prachyabiswas/main/assets/purple-line.svg" width="80%" height="4" alt="separator"/>
+        <br><br>
+      </div>
+      
       <ul>
         <li>
             <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
@@ -75,14 +87,7 @@
             <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>.
         </li>
       </ul>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Jayantadatta&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
-      </a>
       <br>
-      <br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayantadatta&theme=algolia" width="100%" alt="Stats Graph">
     </td>
   </tr>
 </table>
