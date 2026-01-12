@@ -51,19 +51,7 @@
 <h3 align="left">About Me</h3>
 <table border="0" width="100%">
   <tr>
-    <td>
-      <div align="center">
-        <br>
-        <span style="font-size: 20px; font-weight: bold; color: #e5c07b; font-family: 'Courier New', monospace;">
-          “All power is within you; you can do anything and everything.”
-        </span>
-        <br><br>
-        <i>— Swami Vivekananda</i>
-        <br><br>
-        <img src="https://raw.githubusercontent.com/prachyabiswas/prachyabiswas/main/assets/purple-line.svg" width="80%" height="4" alt="separator"/>
-        <br><br>
-      </div>
-      
+    <td width="60%" valign="top">
       <ul>
         <li>
             <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
@@ -87,7 +75,9 @@
             <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>.
         </li>
       </ul>
-      <br>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Math Animation">
     </td>
   </tr>
 </table>
