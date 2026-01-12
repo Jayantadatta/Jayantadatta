@@ -51,7 +51,7 @@
 <h3 align="left">About Me</h3>
 <table border="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <ul>
         <li>
             <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
@@ -76,8 +76,8 @@
         </li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://i.imgur.com/P3X4Y7K.gif" width="90%" style="border-radius: 10px;" alt="Neon Math Graph Animation">
+    <td width="40%" align="center" valign="center">
+      <img src="https://i.imgur.com/lC9bNfB.jpeg" width="100%" style="border-radius: 10px;" alt="Neon Physics Equations">
     </td>
   </tr>
 </table>
