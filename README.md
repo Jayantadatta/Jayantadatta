@@ -49,38 +49,29 @@
 </p>
 
 <h3 align="left">About Me</h3>
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>
-            <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
-        </li>
-        <br>
-        <li>
-            <b>🏆 Olympiad Journey:</b>
-            <br>
-            &nbsp;&nbsp; 🔹 <b>Academic Team Member:</b> Bangladesh Math Olympiad
-            <br>
-            &nbsp;&nbsp; 🔹 <b>National Finalist:</b> Math, Chemistry, Astronomy & Astrophysics Olympiads
-            <br>
-            &nbsp;&nbsp; 🔹 <b>Bronze Honor:</b> International Astronomy and Astrophysics Competition (IAAC)
-        </li>
-        <br>
-        <li>
-            <b>⚙️ Philosophy:</b> I don't just write code; I write <b style="color:#98c379">logic</b>. I focus on clean, reproducible architectures and mathematical optimization.
-        </li>
-        <br>
-        <li>
-            <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>.
-        </li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Math Animation">
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>
+      <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
+  </li>
+  <br>
+  <li>
+      <b>🏆 Olympiad Journey:</b>
+      <br>
+      &nbsp;&nbsp; 🔹 <b>Academic Team Member:</b> Bangladesh Math Olympiad
+      <br>
+      &nbsp;&nbsp; 🔹 <b>National Finalist:</b> Math, Chemistry, Astronomy & Astrophysics Olympiads
+      <br>
+      &nbsp;&nbsp; 🔹 <b>Bronze Honor:</b> International Astronomy and Astrophysics Competition (IAAC)
+  </li>
+  <br>
+  <li>
+      <b>⚙️ Philosophy:</b> I don't just write code; I write <b style="color:#98c379">logic</b>. I focus on clean, reproducible architectures and mathematical optimization.
+  </li>
+  <br>
+  <li>
+      <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>.
+  </li>
+</ul>
 
 <h3>Languages & Tools</h3>
 <p align="left" style="margin: 6px 0;">
