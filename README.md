@@ -51,7 +51,7 @@
 <h3 align="left">About Me</h3>
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <ul>
         <li>
             <b>🔭 The Intersection:</b> I explore the synergy between <b style="color:#d19a66">Applied Mathematics</b> (Linear Algebra, Calculus) and <b>Machine Learning</b>.
@@ -76,8 +76,13 @@
         </li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://elements-resized.envatousercontent.com/elements-video-cover-images/files/0f3d6826-dd90-4e33-886c-7fd61036fb8e/inline_image_preview.jpg?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=ae60c3ecf8d1e7eba617af06b10df82358a96e4a925d5e0ba39936f2cb0b2c68" width="100%" style="border-radius: 10px;" alt="Neon Physics Equations">
+    <td width="45%" valign="center" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Jayantadatta&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
+      </a>
+      <br>
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayantadatta&theme=algolia" width="100%" alt="Stats Graph">
     </td>
   </tr>
 </table>
