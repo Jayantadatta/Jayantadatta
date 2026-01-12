@@ -29,7 +29,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi,+I+am+Jayanta+Datta;Applied+Mathematics+Student+%7C+AI%2FML+Enthusiast;Python+Developer+%7C+Fortran+Explorer;Linear+Algebra+%26+Calculus+Lover;Building+bridges+between+Math+and+CS."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi,+I+am+Jayanta+Datta;Applied+Mathematics+Student+%7C+AI%2FML+Enthusiast;Python+Developer+%7C+Fortran+Explorer;Deeply+interested+in+Applied+Linear+Algebra+and+Applied+Calculus;Building+bridges+between+Math+and+CS."
     alt="Typing lines"
   />
 </p>
@@ -96,7 +96,7 @@
     </a>
     <a href="https://www.wolfram.com/mathematica/" target="_blank">
       <img alt="Mathematica" height="26"
-           src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=202020"/>
+           src="https://img.shields.io/badge/Mathematica-111?style=for-the-badge&logo=wolframmathematica&logoColor=DD1100&labelColor=202020"/>
     </a>
     <a href="https://www.latex-project.org/" target="_blank">
       <img alt="LaTeX" height="26"
