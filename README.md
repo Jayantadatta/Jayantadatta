@@ -29,7 +29,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=true&width=820&lines=Hi,+I+am+Jayanta+Datta;Applied+Mathematics+Student+at+University+of+Dhaka;AI%2FML+Enthusiast;Python+Developer;Passionate+about+the+computational+applications+of+calculus+and+linear+algebra."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F8CFF&center=true&vCenter=true&repeat=true&width=1100&lines=Hi,+I+am+Jayanta+Datta;Applied+Mathematics+Student+at+University+of+Dhaka;AI%2FML+Enthusiast;Python+Developer;Passionate+about+the+computational+applications+of+calculus+and+linear+algebra."
     alt="Typing lines"
   />
 </p>
