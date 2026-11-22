@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Jayanta Datta - Applied Mathematics, AI/ML and Computer Vision">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#14183a"/>
+      <stop offset="1" stop-color="#1b1146"/>
+    </linearGradient>
+    <linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8AA7FF"/>
+      <stop offset="0.5" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F4D03F"/>
+      <stop offset="0.25" stop-color="#2ECC71"/>
+      <stop offset="0.5" stop-color="#1ABC9C"/>
+      <stop offset="0.75" stop-color="#3498DB"/>
+      <stop offset="1" stop-color="#9B59B6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#6E84D5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6E84D5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#8AA7FF" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="260" rx="16" fill="url(#grid)"/>
+  <rect width="900" height="260" rx="16" fill="url(#glow)"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#8AA7FF" fill-opacity="0.2">
+    <text x="38" y="78" font-size="56">&#8747;<animate attributeName="y" values="78;66;78" dur="6s" repeatCount="indefinite"/></text>
+    <text x="150" y="214" font-size="46">&#8721;<animate attributeName="y" values="214;204;214" dur="7s" repeatCount="indefinite"/></text>
+    <text x="96" y="148" font-size="38">&#955;<animate attributeName="y" values="148;138;148" dur="5s" repeatCount="indefinite"/></text>
+    <text x="770" y="82" font-size="52">&#8706;<animate attributeName="y" values="82;70;82" dur="6.5s" repeatCount="indefinite"/></text>
+    <text x="820" y="206" font-size="50">&#960;<animate attributeName="y" values="206;194;206" dur="5.5s" repeatCount="indefinite"/></text>
+    <text x="728" y="150" font-size="38">&#8711;<animate attributeName="y" values="150;140;150" dur="7.5s" repeatCount="indefinite"/></text>
+  </g>
+  <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="450" y="124" font-size="60" font-weight="700" fill="url(#ttl)">Jayanta Datta<animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></text>
+    <text x="450" y="166" font-size="18" letter-spacing="3" fill="#C9D1D9">APPLIED MATHEMATICS  &#215;  AI / ML  &#215;  COMPUTER VISION</text>
+    <text x="450" y="198" font-size="15" letter-spacing="1" fill="#94A3B8">University of Dhaka  &#183;  Dhaka, Bangladesh</text>
+  </g>
+  <rect x="390" y="222" width="120" height="4" rx="2" fill="url(#bar)">
+    <animate attributeName="x" values="390;300;390" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="120;300;120" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
