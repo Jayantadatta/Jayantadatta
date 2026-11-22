@@ -72,9 +72,23 @@
         </li>
         <br>
         <li>
-            <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>.
+            <b>🎯 Current Focus:</b> Mathematical analysis of algorithms, core ML concepts, and expanding into <b style="color:#61afef">Robotics & Arduino</b>, plus <b style="color:#e5c07b">Computer Vision</b> (YOLOv8) on real-world traffic data.
         </li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">⭐ Featured Project</h3>
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://github.com/Jayantadatta/roadvision_object_detection"><b>🚗 RoadVision — Vehicle Detection for Dhaka Traffic</b></a><br>
+      YOLOv8x at 1280px detecting 13 vehicle types (rickshaws, tempus, agro vehicles) in dense, chaotic CCTV scenes.<br>
+      <b>Result:</b> score improved 0.42 → 0.44 → <b>0.54</b> across iterations, finishing <b>87th</b> in my first-ever hackathon (RoadVision_DUET).<br>
+      <img alt="YOLOv8x" src="https://img.shields.io/badge/YOLOv8x-111?style=flat&logo=python&logoColor=FFD343"/>
+      <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-1e90ff?style=flat"/>
+      <img alt="Python" src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=FFD343"/>
     </td>
   </tr>
 </table>
