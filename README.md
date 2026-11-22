@@ -91,9 +91,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayantadatta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&ring_color=6E84D5&border_radius=12&v=3" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayantadatta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&icon_color=6E84D5&ring_color=6E84D5&border_radius=12&v=3" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayantadatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12&v=3" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayantadatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8AA7FF&text_color=C9D1D9&card_width=420&border_radius=12&v=3" height="170" alt="Top Languages"/>
 </div>
 
 <p align="center">
